@@ -1,9 +1,9 @@
 {
-  "name": "yahoo-weather",
-  "version": "1.0.1",
+  "name": "weather-yahoo",
+  "version": "1.0.0",
   "description": "Search by location, it gives you the weather",
   "author": "Kevin Walchko",
-  "main": "index.js",
+  "main": "yahoo-weather.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
@@ -18,7 +18,11 @@
   "keywords": [
     "weather",
     "yahoo",
-    "api"
+    "api",
+    "json",
+    "geoip",
+    "yahoo weather",
+    "yahoo weather api"
   ],
   "license": "MIT"
 }
