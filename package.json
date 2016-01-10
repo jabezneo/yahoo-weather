@@ -1,24 +1,21 @@
 {
-  "name": "slackweatherbot",
+  "name": "yahoo-weather",
   "version": "1.0.1",
-  "description": "Search by location, bot gives you the weather",
-  "author": "Francis Kim <hello@franciskim.co> (https://franciskim.co/)",
+  "description": "Search by location, it gives you the weather",
+  "author": "Kevin Walchko",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/franciskim/slackweatherbot.git"
+    "url": "git+https://github.com/walchko/yahoo-weather.git"
   },
   "bugs": {
-    "url": "https://github.com/franciskim/slackweatherbot/issues"
+    "url": "https://github.com/walchko/yahoo-weather/issues"
   },
-  "homepage": "https://github.com/franciskim/slackweatherbot#readme",
+  "homepage": "https://github.com/walchko/yahoo-weather#readme",
   "keywords": [
-    "slack",
-    "bot",
-    "rtm",
     "weather",
     "yahoo",
     "api"
