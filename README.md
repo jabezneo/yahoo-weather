@@ -1,8 +1,8 @@
 # Yahoo Weather
 
-[![npm](https://img.shields.io/npm/v/weather-yahoo.svg)](https://github.com/walchko/weather-yahoo)
-[![npm](https://img.shields.io/npm/l/weather-yahoo.svg)](https://github.com/walchko/weather-yahoo)
-[![Travis](https://img.shields.io/travis/walchko/weather-yahoo.svg)](https://travis-ci.org/walchko/yahoo-weather)
+[![npm](https://img.shields.io/npm/v/weather-yahoo.svg)](https://github.com/walchko/yahoo-weather)
+[![npm](https://img.shields.io/npm/l/weather-yahoo.svg)](https://github.com/walchko/yahoo-weather)
+[![Travis](https://img.shields.io/travis/walchko/yahoo-weather.svg)](https://travis-ci.org/walchko/yahoo-weather)
 
 [![NPM](https://nodei.co/npm/weather-yahoo.png)](https://nodei.co/npm/weather-yahoo/)
 
