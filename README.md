@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/weather-yahoo.svg)](https://github.com/walchko/weather-yahoo)
 [![npm](https://img.shields.io/npm/l/weather-yahoo.svg)](https://github.com/walchko/weather-yahoo)
-[![Travis](https://img.shields.io/travis/walchko/weather-yahoo.svg)](https://travis-ci.org/walchko/weather-yahoo)
+[![Travis](https://img.shields.io/travis/walchko/weather-yahoo.svg)](https://travis-ci.org/walchko/yahoo-weather)
 
 [![NPM](https://nodei.co/npm/weather-yahoo.png)](https://nodei.co/npm/weather-yahoo/)
 
@@ -38,5 +38,5 @@ to play with the output.
 
 | Version | Date     | Comments |
 |---------|----------|----------|
-| 1.0.1   | 11 Jan 16| clean up and doc updates |
+| 1.0.2   | 11 Jan 16| clean up and doc updates |
 | 1.0.0   | 10 Jan 16| Finally published it to npm | 
