@@ -29,6 +29,11 @@ To test it out, put the below code into Tonic and see the results, however, give
 Also, Yahoo has a great [developer network](https://developer.yahoo.com/weather/) where you
 can play with code and see the full json format they return.
 
+## Examples
+
+See the [example](https://github.com/walchko/yahoo-weather/blob/master/example/example.js) 
+to play with the output.
+
 ## Change Log 
 
 | Version | Date     | Comments |
