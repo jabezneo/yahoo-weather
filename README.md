@@ -11,6 +11,9 @@ just a subset.
 
 ## Usage
 
+To test it out, put the below code into Tonic and see the results, however, give it time 
+(a few seconds) to talk with yahoo servers and return an answer.
+
     var yw = require('weather-yahoo');
     var ans = {};
     yw.getSimpleWeather('denver,co').then(function(res){
@@ -22,6 +25,9 @@ just a subset.
         console.log(res);
         ans=res;
     }); // returns full yahoo weather json
+
+Also, Yahoo has a great [developer network](https://developer.yahoo.com/weather/) where you
+can play with code and see the full json format they return.
 
 ## Change Log 
 
