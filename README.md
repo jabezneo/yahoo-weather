@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/weather-yahoo.svg)](https://github.com/walchko/yahoo-weather)
 [![npm](https://img.shields.io/npm/l/weather-yahoo.svg)](https://github.com/walchko/yahoo-weather)
 [![Travis](https://img.shields.io/travis/walchko/yahoo-weather.svg)](https://travis-ci.org/walchko/yahoo-weather)
+[![bitHound Code](https://www.bithound.io/github/walchko/yahoo-weather/badges/code.svg)](https://www.bithound.io/github/walchko/yahoo-weather)
 
 [![NPM](https://nodei.co/npm/weather-yahoo.png)](https://nodei.co/npm/weather-yahoo/)
 
